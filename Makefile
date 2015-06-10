@@ -1,2 +1,2 @@
 all:
-	g++ -std=c++0x main.cpp -o muhkeat
+	g++ -std=c++0x -O3 main.cpp -o muhkeat
